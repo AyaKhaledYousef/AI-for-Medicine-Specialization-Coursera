@@ -1,3 +1,4 @@
+![img1](Splitting data.png)
 
 
 
