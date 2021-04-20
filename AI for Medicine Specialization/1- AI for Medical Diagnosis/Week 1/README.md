@@ -20,6 +20,7 @@
 # DataSet of Chest X-Ray:
 
 - [ChestX-ray DataSet](https://arxiv.org/abs/1705.02315)
+- [Free Download ](https://nihcc.app.box.com/v/ChestXray-NIHCC)
 
 
 
