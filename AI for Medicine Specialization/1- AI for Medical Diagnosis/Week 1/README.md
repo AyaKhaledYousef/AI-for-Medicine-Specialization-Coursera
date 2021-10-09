@@ -1,3 +1,37 @@
+![img1](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/blob/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201/images/111.png)
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+# 1- Class Imbalance 
+
+### 1.1 Binary Cross Entropy 
+
+![img1](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/blob/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201/images/222.png)
+
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+
+![img1](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/blob/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201/images/333.png)
+
+
+
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+### 1.2 Resample
+
+- **UnderSampling & OverSampling **
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Our data split into three 3 parts and we have 3 key challenges:
 ![img1](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/blob/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201/images/split.png)
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
