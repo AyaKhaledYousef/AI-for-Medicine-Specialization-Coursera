@@ -22,7 +22,7 @@
 
 ![img1](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/blob/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201/images/444.png)
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
-
+# 3- DataSet Size
 
 
 
