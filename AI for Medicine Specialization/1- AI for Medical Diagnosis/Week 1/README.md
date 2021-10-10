@@ -1,10 +1,18 @@
-# Three Key Challenges:
+# HeadLines:
 
-[1- Class Imbalance ](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#1--class-imbalance)
+### 1- Three Key Challenges:
 
-[2- Multi Task](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#2--muli-task)
+  [1- Class Imbalance ](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#1--class-imbalance)
 
-[3- DataSet Size](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/blob/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201/README.md#3--dataset-size)
+  [2- Multi Task](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#2--muli-task)
+
+  [3- DataSet Size](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#3--dataset-size)
+
+### 2- [Dataset of chest x-ray](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#dataset-of-chest-x-ray)
+
+### 3- [Uesful Resourses](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#uesful-resourses)
+
+### 4- [Quiz 1](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#quiz-1)
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 # 1- Class Imbalance 
