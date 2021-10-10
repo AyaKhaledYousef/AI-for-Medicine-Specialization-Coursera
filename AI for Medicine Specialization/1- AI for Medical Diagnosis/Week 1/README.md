@@ -2,11 +2,11 @@
 
 ### 1- Three Key Challenges:
 
-  [1- Class Imbalance ](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#1--class-imbalance)
+  - [1- Class Imbalance ](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#1--class-imbalance)
 
-  [2- Multi Task](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#2--muli-task)
+  - [2- Multi Task](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#2--muli-task)
 
-  [3- DataSet Size](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#3--dataset-size)
+  - [3- DataSet Size](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#3--dataset-size)
 
 ### [2- Dataset of chest x-ray](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#dataset-of-chest-x-ray)
 
