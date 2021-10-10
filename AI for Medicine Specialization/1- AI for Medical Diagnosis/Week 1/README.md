@@ -1,10 +1,10 @@
 # Three Key Challenges:
 
-1- [Class Imbalance ](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#1--class-imbalance)
+[1- Class Imbalance ](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#1--class-imbalance)
 
-2- [Multi Task](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#2--muli-task)
+[2- Multi Task](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201#2--muli-task)
 
-3- [DataSet Size](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/blob/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201/README.md#3--dataset-size)
+[3- DataSet Size](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/blob/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%201/README.md#3--dataset-size)
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 # 1- Class Imbalance 
