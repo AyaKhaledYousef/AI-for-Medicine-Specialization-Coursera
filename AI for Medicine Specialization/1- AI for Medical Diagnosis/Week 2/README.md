@@ -1,8 +1,8 @@
 # Headlines:
 
-  - [1- Accuracy ]
-  - [2- Sensitivity & Specificity]
-  - [3- PPV & NPV:]
+  - [1- Accuracy ](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%202#accuracy)
+  - [2- Sensitivity & Specificity](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%202#sensitivity--specificity)
+  - [3- PPV & NPV:](https://github.com/AyaKhaledYousef/AI-for-Medicine-Specialization-Coursera/tree/main/AI%20for%20Medicine%20Specialization/1-%20AI%20for%20Medical%20Diagnosis/Week%202#ppv--npv)
 
 
 
