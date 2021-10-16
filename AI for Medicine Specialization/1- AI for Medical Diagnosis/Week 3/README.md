@@ -1,3 +1,6 @@
+- [MSD Challenge](https://decathlon-10.grand-challenge.org/) Contains 10 tasks with their dataset (Colon , Brain Tumor , Liver , Heart ,Hippocampus , prostata ,HepaticVessel ,Spleen )
+
+
 # Loss function for image segmentation:
 - The soft **dice loss** is a popular loss function for segmentation models.
 - The advantage of the soft **dice loss** is that it works well in the presence of imbalanced data.
